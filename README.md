@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vVvOvOvVv
+- 👋 Hi, I’m @vVvOvOvVv, but just call me V
 - 👀 I’m interested in game dev and all (or at least most) things programming
 - 🌱 I’m currently studying compsci, with a specialization in game & mobile dev under UOW
 
