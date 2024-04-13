@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vVvOvOvVv, but just call me V
 - 👀 I’m interested in game dev and all (or at least most) things programming
+- ✨ Art is mostly a hobby; I enjoy designing monsters and creatures
 - 🌱 I’m currently studying compsci, with a specialization in game & mobile dev under UOW
 
 <!---
